@@ -12,7 +12,6 @@ Welcome to **LeelaClue**, your personal companion for self-reflection and insigh
     - [Top Menu](#top-menu)
     - [My Diary](#my-diary)
     - [Sharing Your Insights](#sharing-your-insights)
-    - [Coach Support](#coach-support)
 4. [Example Scenarios](#example-scenarios)
 5. [FAQ](#faq)
 
@@ -80,11 +79,6 @@ You can share your spread with friends or save it for later.
 -   The app generates a beautiful image of your spread including your question and the cards.
 -   Share it via WhatsApp, Telegram, Save to Files, or other apps.
 
-### Coach Support
-Sometimes a spread can be deep or confusing, and you might need extra guidance.
--   You can share your spread result to the **Telegram** or **Instagram** channels found in the **Contact** menu (Mail icon).
--   Experienced Leela coaches may offer interpretation support.
--   *Note: This support is voluntary and limited by the availability of the coaches.*
 
 ### Daily Limit
 LeelaClue is designed for deep reflection, not casual gaming.

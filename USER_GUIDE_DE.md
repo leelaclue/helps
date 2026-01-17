@@ -12,7 +12,6 @@ Willkommen bei **LeelaClue**, deinem persönlichen Begleiter für Selbstreflexio
     - [Oberes Menü](#oberes-menü)
     - [Mein Tagebuch](#mein-tagebuch)
     - [Teilen deiner Erkenntnisse](#teilen-deiner-erkenntnisse)
-    - [Unterstützung durch Coaches](#unterstützung-durch-coaches)
 4. [Beispielszenarien](#beispielszenarien)
 5. [FAQ](#faq)
 
@@ -80,11 +79,6 @@ Du kannst deine Legung mit Freunden teilen oder für später speichern.
 -   Die App generiert ein schönes Bild deiner Legung inklusive deiner Frage und der Karten.
 -   Teile es über WhatsApp, Telegram, Speichern in Dateien oder andere Apps.
 
-### Unterstützung durch Coaches
-Manchmal kann eine Legung tiefgründig oder verwirrend sein, und du benötigst vielleicht zusätzliche Anleitung.
--   Du kannst dein Legungs-Ergebnis in den **Telegram**- oder **Instagram**-Kanälen teilen, die im **Kontakt**-Menü (Brief-Symbol) zu finden sind.
--   Erfahrene Leela-Coaches können Unterstützung bei der Interpretation anbieten.
--   *Hinweis: Diese Unterstützung ist freiwillig und abhängig von der Verfügbarkeit der Coaches.*
 
 ### Tägliches Limit
 LeelaClue ist für tiefe Reflexion konzipiert, nicht als Gelegenheitsspiel.
