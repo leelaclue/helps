@@ -113,8 +113,6 @@ LeelaClue is designed for deep reflection, not casual gaming.
 **Q: Why can't I ask another question today?**
 A: To preserve the quality of your reflection, the app limits spreads to one per day. Take time to meditate on today's answer.
 
-**Q: The cards are empty/loading?**
-A: Ensure you have a stable internet connection if the app is trying to download updates, though cards are generally stored locally.
 
 **Q: Can I delete a diary entry?**
 A: Yes, you can delete an entry by swiping it to the left in the Diary screen. Confirm the deletion in the dialog that appears.

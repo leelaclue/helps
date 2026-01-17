@@ -113,8 +113,6 @@ LeelaClue ist für tiefe Reflexion konzipiert, nicht als Gelegenheitsspiel.
 **F: Warum kann ich heute keine weitere Frage stellen?**
 A: Um die Qualität deiner Reflexion zu wahren, beschränkt die App Legungen auf eine pro Tag. Nimm dir Zeit, über die heutige Antwort zu meditieren.
 
-**F: Die Karten sind leer/laden?**
-A: Stelle sicher, dass du eine stabile Internetverbindung hast, falls die App versucht, Updates herunterzuladen, obwohl Karten im Allgemeinen lokal gespeichert sind.
 
 **F: Kann ich einen Tagebucheintrag löschen?**
 A: Ja, du kannst einen Eintrag löschen, indem du ihn im Tagebuch-Bildschirm nach links wischst. Bestätige das Löschen im erscheinenden Dialog.
