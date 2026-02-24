@@ -1,121 +1,122 @@
 # LeelaClue Benutzerhandbuch
 
-Willkommen bei **LeelaClue**, deinem persönlichen Begleiter für Selbstreflexion und Einsichten durch die alte Weisheit von Leela. Diese App soll dir helfen, durch eine meditative 3-Karten-Legung Klarheit in Lebensfragen zu gewinnen.
+Willkommen bei **LeelaClue**, deinem persönlichen Begleiter für Selbstreflexion und Einsichten durch die alte Weisheit von Leela. Diese App wurde entwickelt, um dir zu helfen, Klarheit in Lebensfragen zu gewinnen und Achtsamkeit in deinen Alltag zu integrieren.
 
 ## Inhaltsverzeichnis
 1. [Erste Schritte](#erste-schritte)
 2. [Wie man LeelaClue benutzt](#wie-man-leelaclue-benutzt)
     - [Der Hauptbildschirm](#der-hauptbildschirm)
-    - [Eine Legung durchführen](#eine-legung-durchführen)
-    - [Ergebnisse interpretieren](#ergebnisse-interpretieren)
-3. [Funktionen](#funktionen)
-    - [Oberes Menü](#oberes-menü)
-    - [Mein Tagebuch](#mein-tagebuch)
+    - [Tägliche Weisheit](#tägliche-weisheit)
+    - [Täglicher Hinweis](#täglicher-hinweis)
+3. [Mein Tagebuch](#mein-tagebuch)
+    - [Meine Reflexionen](#meine-reflexionen)
+4. [Zusätzliche Funktionen](#zusätzliche-funktionen)
     - [Teilen deiner Erkenntnisse](#teilen-deiner-erkenntnisse)
-4. [Beispielszenarien](#beispielszenarien)
-5. [FAQ](#faq)
+    - [Tägliches Limit](#tägliches-limit)
+5. [Beispielszenarien](#beispielszenarien)
+6. [FAQ](#faq)
 
 ---
 
 ## Erste Schritte
 
-Wenn du LeelaClue zum ersten Mal öffnest, wirst du von der sternenklaren Benutzeroberfläche begrüßt. Die App zielt darauf ab, eine ruhige, fokussierte Atmosphäre zu schaffen. Tiefes Atmen und geistige Klarheit sind der Schlüssel, um das Beste aus deiner Legung herauszuholen.
+Wenn du LeelaClue zum ersten Mal öffnest, wirst du von der sternenklaren Benutzeroberfläche begrüßt. Die App schafft eine ruhige, fokussierte Atmosphäre für deine spirituelle Reise. Tiefes Atmen und geistige Klarheit sind der Schlüssel, um das Beste aus deinen Lesungen herauszuholen.
 
-### Spracheinstellungen
+### Sprache & Name
 LeelaClue unterstützt Englisch 🇬🇧, Deutsch 🇩🇪 und Russisch 🇷🇺.
--   Die App erkennt zunächst deine Systemsprache.
--   Um die Sprache jederzeit zu ändern, **tappe auf das Flaggen-Symbol** in der oberen rechten Ecke des Bildschirms und wähle deine bevorzugte Sprache.
+*   Um die Sprache zu ändern, **tippe auf das Flaggen-Symbol** im oberen Menü.
+*   Um deinen Begrüßungsnamen zu ändern oder eine Erinnerung einzustellen, **tippe auf das Zahnrad-Symbol** (Einstellungen) im oberen Menü.
+*   Der Hauptbildschirm begrüßt dich mit deinen Reisestatistiken, die deine insgesamt abgeschlossenen Übungen und Reflexionen zeigen.
 
 ---
 
 ## Wie man LeelaClue benutzt
 
 ### Der Hauptbildschirm
-Der Hauptbildschirm besteht aus:
--   **Frage-Eingabe**: Ein Textfeld, in das du deine Absicht oder Frage eingibst.
--   **Halten-Button**: Der zentrale Knopf, um sich zu fokussieren und die Legung zu starten.
--   **Hilfe-Symbol (Links)**: Zugriff auf Anleitungen und App-Infos.
--   **Tagebuch-Button (Rechts)**: Ein Knopf mit einem Buch-Symbol, um deine vergangenen Legungen anzusehen.
+Der Hauptbildschirm ist dein zentraler Knotenpunkt:
+*   **Das Karussell**: Wische zwischen den beiden primären Ritualen: **Tägliche Weisheit** und **Täglicher Hinweis**.
+*   **Aktivitätsindikatoren**: Symbole am oberen Rand verfolgen deinen täglichen Fortschritt. Ein Häkchen erscheint, wenn ein Ritual abgeschlossen ist.
+*   **Tagesübungs-Button**: Tippe auf das Kalender-Symbol am unteren Rand, um deine aktive Achtsamkeitsaufgabe anzuzeigen.
+*   **Tagebuch-Button**: Tippe auf das Buch-Symbol, um deine Historie zu erkunden.
 
-### Eine Legung durchführen
-1.  **Formuliere eine Frage**: Tippe eine Frage oder Absicht in das Textfeld. Sie muss mindestens **5 Wörter** lang sein, um eine spezifische und durchdachte Anfrage zu fördern.
-    *   *Tipp: Vermeide einfache Ja/Nein-Fragen. Frage "Was..." oder "Wie..."*
-2.  **Fokussieren & Halten**: Drücke und **halte** den zentralen Knopf.
-    *   Ein Atem-Kreis erscheint.
-    *   Atme synchron mit dem Kreis ein und aus, um deinen Geist zu beruhigen.
-    *   Halte den Knopf gedrückt, bis der Kreis seinen Zyklus beendet hat. Dies stellt sicher, dass du geistig präsent bist.
-3.  **Karten aufdecken**: Sobald der Fokus abgeschlossen ist, erscheinen 3 Karten verdeckt.
-    *   Tippe auf jede Karte, um sie aufzudecken.
-    *   Die App führt dich durch die Aufdeck-Animation.
+### Tägliche Weisheit
+Eine morgendliche Ausrichtung, um deine Intention für den Tag zu setzen.
+1.  **Energie aufladen**: Tippe auf die Tägliche Weisheits-Karte im Karussell. Drücke und **halte** den zentralen Knopf.
+2.  **Fokussieren**: Halte gedrückt, bis der Countdown abgelaufen ist und der Zähler grün wird. Dies stellt sicher, dass du geistig präsent bist.
+3.  **Empfangen**: Lies das Thema, die Beschreibung und die Zitate deiner Karte.
+4.  **Verkörpern**: Jede Karte enthält eine **Tägliche Übung**. Wenn du diese Aufgabe in deinem Leben umgesetzt hast, tippe auf **"Als erledigt markieren"**, um deinen Fortschritt in deinen Statistiken festzuhalten.
 
-### Ergebnisse interpretieren
-Nachdem alle 3 Karten aufgedeckt wurden, siehst du den **Ergebnis-Bildschirm**. Die Karten entsprechen drei Perspektiven:
-1.  **Wo stehe ich?**: Dein aktueller Zustand oder der Kern des Problems.
-2.  **Was ich nicht bemerke**: Verborgene Einflüsse oder unterbewusste Faktoren.
-3.  **Was mir hilft**: Führung, Ressourcen oder Handlungen, die du ergreifen kannst.
-
-Tippe auf eine beliebige Karte, um sie im Vollbildmodus anzuzeigen und ihre detaillierte Beschreibung sowie Themenfragen zu lesen.
+### Täglicher Hinweis
+Eine meditative 3-Karten-Legung für tiefere Einblicke in spezifische Lebenssituationen.
+1.  **Stelle eine Frage**: Tippe deine Absicht ein (mind. 5 Wörter). Vermeide einfache Ja/Nein-Fragen; frage "Was..." oder "Wie...".
+2.  **Fokussieren & Halten**: Halte den Knopf gedrückt, bis der Kreis seinen Zyklus beendet hat.
+3.  **Aufdecken**: Tippe auf jede Karte, um ihre einzigartige Perspektive zu enthüllen:
+    *   **Wo stehe ich?**: Reflexionsfragen, die dir helfen, deinen wahren innerer Zustand zu erkennen.
+    *   **Was ich nicht bemerke**: Fragen, die dich unterstützen, verborgene oder unterbewusste Einflüsse zu sehen.
+    *   **Was mir hilft**: Fragen, die dich zu deinen eigenen Ressourcen oder nächsten Schritten führen.
 
 ---
 
-## Funktionen
+## Mein Tagebuch
+Alle deine abgeschlossenen Rituale werden automatisch in deinem Tagebuch für die langfristige Reflexion gespeichert.
+*   Tippe auf den **Tagebuch-Button** (Buch-Symbol) auf dem Hauptbildschirm.
+*   Nutze den Umschalter oben, um zwischen **Weisheit**- und **Hinweis**-Einträgen zu filtern.
+*   Überprüfe vergangene Karten und Fragen, um darüber nachzudenken, wie sich deine Situation entwickelt hat.
+*   Um dein Tagebuch fokussiert zu halten, kannst du einen Eintrag löschen, indem du ihn nach links wischst (nur für vergangene Tage).
 
-### Oberes Menü
-Die obere Leiste bietet schnellen Zugriff auf wichtige Informationen:
--   **Fragezeichen (?)**: Öffnet die vollständige Anleitungsseite.
--   **Info-Symbol (i)**: Zugriff auf rechtliche Informationen wie Impressum und Haftungsausschluss.
--   **Brief-Symbol**: Öffnet die Kontaktseite mit Social-Media-Links.
--   **Flaggen-Symbol**: Ändert die App-Sprache.
+### Meine Reflexionen
+Halte deine Erkenntnisse direkt bei jeder Karte fest.
+*   Tippe auf den Bereich **Meine Reflexion** oder das **Bearbeiten-Symbol** auf der Detailseite einer Karte.
+*   Speichere deine Gedanken, Gefühle oder "Aha-Momente".
+*   Diese Reflexionen werden zusammen mit der Karte in deinem Tagebuch gespeichert und erstellen eine Karte der Entwicklung deiner Seele.
 
-### Mein Tagebuch
-Alle deine abgeschlossenen Legungen werden automatisch in deinem **Tagebuch** gespeichert.
--   Tippe auf den **Tagebuch-Button** (Buch-Symbol) auf dem Hauptbildschirm, um das Tagebuch zu öffnen.
--   Überprüfe vergangene Fragen und die Karten, die du gezogen hast.
--   Reflektiere darüber, wie sich deine Situation entwickelt hat.
+---
+
+## Zusätzliche Funktionen
 
 ### Teilen deiner Erkenntnisse
-Du kannst deine Legung mit Freunden teilen oder für später speichern.
--   Tippe auf dem Ergebnis-Bildschirm oder im Tagebuch auf den **Teilen**-Button.
--   Die App generiert ein schönes Bild deiner Legung inklusive deiner Frage und der Karten.
--   Teile es über WhatsApp, Telegram, Speichern in Dateien oder andere Apps.
-
+Du kannst deine Legung teilen oder für später speichern.
+*   Tippe auf einem beliebigen Ergebnisbildschirm oder im Tagebuch auf den **Teilen**-Button.
+*   Die App generiert ein schönes Bild deiner Legung inklusive deiner Frage und der Karten.
+*   Du kannst das Legungsergebnis in den Communities der Telegram- oder Instagram-Kanäle teilen, die im **Kontakt**-Menü (Brief-Symbol) zu finden sind.
 
 ### Tägliches Limit
-LeelaClue ist für tiefe Reflexion konzipiert, nicht als Gelegenheitsspiel.
--   **Eine Legung pro Tag**: Du bist auf eine neue Legung pro Tag beschränkt.
--   Dieses Limit ermutigt dich, mit der Antwort zu verweilen und die Einsicht wirklich zu integrieren, bevor du erneut fragst.
--   Du kannst deine *Historie* (Tagebuch) so oft überprüfen, wie du möchtest.
+LeelaClue ist für tiefe Reflexion konzipiert, nicht für den flüchtigen Gebrauch.
+*   **Ein Ritual pro Tag**: Du kannst jedes Ritual einmal pro Tag durchführen.
+*   Dies ermutigt dich, bei der Antwort zu verweilen und die Erkenntnis zu heute zu integrieren, bevor du erneut fragst.
 
 ---
 
 ## Beispielszenarien
 
 ### Szenario 1: Karriereentscheidungen
-**Situation**: Du hast ein neues Jobangebot, bist dir aber unsicher, ob du deinen aktuellen sicheren Job aufgeben sollst.
+**Situation**: Du hast ein neues Jobangebot, bist dir aber unsicher, ob du deinen aktuellen Job verlassen sollst.
 **Frage**: *"Was sollte ich bezüglich des neuen Jobangebots bei TechCorp beachten?"*
 **Die Legung**:
-1.  *Karte 1 (Wo stehe ich?)*: **Unsicherheit**. Du fühlst dich vielleicht ängstlich bezüglich deiner Fähigkeiten.
-2.  *Karte 2 (Was ich nicht bemerke)*: **Sudharma (Rechtes Handeln)**. Du bist eigentlich im Einklang mit deiner Bestimmung, und dieser Schritt ist Teil davon.
-3.  *Karte 3 (Was mir hilft)*: **Jnana (Wissen)**. Sammle mehr Fakten über die neue Rolle, um deine Ängste zu beruhigen.
+1.  *Wo stehe ich?*: **Unsicherheit**. Du fühlst dich vielleicht ängstlich bezüglich deiner Fähigkeiten.
+2.  *Was ich nicht bemerke*: **Sudharma (Rechtes Handeln)**. Du bist eigentlich im Einklang mit deiner Bestimmung.
+3.  *Was mir hilft*: **Jnana (Wissen)**. Sammle mehr Fakten über die neue Rolle, um deine Ängste zu beruhigen.
 
 ### Szenario 2: Beziehungskonflikt
 **Situation**: Du hattest einen Streit mit einer engen Freundin und weißt nicht, wie du ihn lösen sollst.
 **Frage**: *"Wie kann ich das Missverständnis mit meiner Freundin Sarah auflösen?"*
 **Die Legung**:
-1.  *Karte 1 (Wo stehe ich?)*: **Ego**. Du hältst vielleicht an deinem Stolz fest.
-2.  *Karte 2 (Was ich nicht bemerke)*: **Anhaftung**. Du hast Angst, die Freundschaft zu verlieren, was dich defensiv macht.
-3.  *Karte 3 (Was mir hilft)*: **Mitgefühl**. Gehe mit Empathie für ihre Gefühle auf Sarah zu und lass das Bedürfnis los, "recht zu haben".
+1.  *Wo stehe ich?*: **Ego**. Du hältst vielleicht an deinem Stolz fest.
+2.  *Was ich nicht bemerke*: **Anhaftung**. Du hast Angst, die Freundschaft zu verlieren, was dich defensiv macht.
+3.  *Was mir hilft*: **Mitgefühl**. Gehe mit Empathie auf Sarah zu und lass das Bedürfnis los, „recht zu haben“.
 
 ---
 
 ## FAQ
 
 **F: Warum kann ich heute keine weitere Frage stellen?**
-A: Um die Qualität deiner Reflexion zu wahren, beschränkt die App Legungen auf eine pro Tag. Nimm dir Zeit, über die heutige Antwort zu meditieren.
+A: Um die Qualität deiner Reflexion zu wahren, beschränkt die App Rituale auf einmal pro Tag. Nimm dir Zeit, über die Antwort zu meditieren.
 
+**F: Warum kann ich den heutigen Eintrag nicht löschen?**
+A: Die heutige Lesung ist dazu gedacht, mit ihr zu verweilen. Du kannst Einträge vergangener Tage löschen, indem du sie im Tagebuch wischst.
 
-**F: Kann ich einen Tagebucheintrag löschen?**
-A: Ja, du kannst einen Eintrag löschen, indem du ihn im Tagebuch-Bildschirm nach links wischst. Bestätige das Löschen im erscheinenden Dialog.
+**F: Wo ist meine tägliche Übung?**
+A: Ziehe zuerst deine Tägliche Weisheits-Karte. Tippe dann auf das Kalender-Symbol auf dem Hauptbildschirm, um deine Aufgabe zu sehen und abzuschließen.
 
 ---
 
