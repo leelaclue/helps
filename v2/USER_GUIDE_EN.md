@@ -144,6 +144,7 @@ LeelaClue is designed for deep reflection, not casual gaming.
 Tap the **Gear Icon** to open Settings.
 *   Set your greeting name and daily reminders.
 *   **Analytics** is off by default. If you choose to turn it on, only anonymous usage events are shared — never your reflections or any personal content. You can switch it off again at any time.
+*   **Delete Account & Data**: Permanently erases everything — your reflections, settings, purchase history, Clue balance, and any linked Apple/Google account — and returns the app to its first-run state. This cannot be undone. If you use the same account on more than one device, run it on each. (Apple/Google keep their own purchase receipts on their side, which we cannot remove.)
 
 ---
 
@@ -192,6 +193,9 @@ A: Sign in on the Dakshina screen *before* switching. On the new device, sign in
 
 **Q: If I sign in, what do you learn about me?**
 A: Nothing personal. The app never stores or transmits your email address or name — only an anonymous identifier that links your Clues balance to your account.
+
+**Q: How do I delete my account and all my data?**
+A: Open Settings (Gear Icon) → **Delete Account & Data** and confirm. This permanently erases your reflections, settings, purchase history, Clue balance and any linked account, and returns the app to its first-run state. It cannot be undone, and no sign-in is required to use it. If you use the same Apple/Google account on several devices, run it on each one. The only thing that remains afterwards is the purchase receipts that Apple/Google keep on their side, which we cannot remove.
 
 ---
 

@@ -144,6 +144,7 @@ LeelaClue ist für tiefe Reflexion konzipiert, nicht für den flüchtigen Gebrau
 Tippe auf das **Zahnrad-Symbol**, um die Einstellungen zu öffnen.
 *   Lege deinen Begrüßungsnamen und tägliche Erinnerungen fest.
 *   **Analytics** ist standardmäßig ausgeschaltet. Wenn du es einschaltest, werden nur anonyme Nutzungsereignisse geteilt — niemals deine Reflexionen oder persönliche Inhalte. Du kannst es jederzeit wieder ausschalten.
+*   **Konto & Daten löschen**: Löscht endgültig alles — deine Reflexionen, Einstellungen, deinen Kaufverlauf, dein Clues-Guthaben und ein eventuell verknüpftes Apple-/Google-Konto — und setzt die App in den Ausgangszustand zurück. Dies kann nicht rückgängig gemacht werden. Wenn du dasselbe Konto auf mehreren Geräten nutzt, führe es auf jedem davon aus. (Apple/Google behalten ihre eigenen Kaufbelege, die wir nicht entfernen können.)
 
 ---
 
@@ -192,6 +193,9 @@ A: Melde dich *vor* dem Wechsel auf dem Dakshina-Bildschirm an. Auf dem neuen Ge
 
 **F: Wenn ich mich anmelde — was erfahrt ihr über mich?**
 A: Nichts Persönliches. Die App speichert oder überträgt niemals deine E-Mail-Adresse oder deinen Namen — nur eine anonyme Kennung, die dein Clues-Guthaben mit deinem Konto verknüpft.
+
+**F: Wie lösche ich mein Konto und alle meine Daten?**
+A: Öffne die Einstellungen (Zahnrad-Symbol) → **Konto & Daten löschen** und bestätige. Dies löscht endgültig deine Reflexionen, Einstellungen, deinen Kaufverlauf, dein Clues-Guthaben und ein eventuell verknüpftes Konto und setzt die App in den Ausgangszustand zurück. Es kann nicht rückgängig gemacht werden, und es ist keine Anmeldung dafür nötig. Wenn du dasselbe Apple-/Google-Konto auf mehreren Geräten nutzt, führe es auf jedem davon aus. Übrig bleiben danach nur die Kaufbelege, die Apple/Google auf ihrer Seite aufbewahren und die wir nicht entfernen können.
 
 ---
 
