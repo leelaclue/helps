@@ -68,7 +68,7 @@ Deine drei Karten repräsentieren Schlüsselfelder des Leela-Spielfelds und bild
 1.  **Setze deine Absicht**: Tippe deine Absicht ein (mind. 5 Wörter). Vermeide einfache Ja/Nein-Fragen; frage "Was..." oder "Wie...". Sobald du mindestens 5 Wörter getippt hast, erscheint ein leuchtendes **Guru-Symbol** — tippe darauf, um deine Absicht vor dem Ziehen vom Leela-Guru schärfen zu lassen (kostet 1 Clue).
 2.  **Fokussieren & Halten**: Halte den Knopf gedrückt, bis der Kreis seinen Zyklus beendet hat, während Leela deine drei StOR-Karten zieht.
 3.  **Empfange den Rahmen**: Tippe auf jede Karte, um ihrer Perspektive zu begegnen — zuerst deinem **Startpunkt**, dann deiner **Schattenzone**, dann deinem **Schlüssel zur Lösung**. Jede Karte trägt Reflexionsfragen durch ihre StOR-Linse. Wenn du deine Absicht vom Guru schärfen ließest, sind diese Fragen auf deine Situation personalisiert. Um das Kartenbild für sich zu betrachten, tippe auf das **Text-ausblenden-Symbol** neben der Frage oder halte irgendwo auf der Karte gedrückt — nur der Name der Karte bleibt stehen. Ein Tippen holt den Text zurück.
-4.  **Reflektieren**: Schreibe zu jeder der drei Karten eine Reflexion. Das ist der Kern der Methode — die Karten zeigen nur; deine geschriebenen Reflexionen leisten die Arbeit.
+4.  **Reflektieren**: Schreibe zu jeder der drei Karten eine Reflexion. Das ist der Kern der Methode — die Karten zeigen nur; deine geschriebenen Reflexionen leisten die Arbeit. Wenn du nicht weiterweißt, halte ein paar erste Gedanken fest und tippe auf das **Guru-Symbol** im Reflexionsfenster (kostet 1 Clue) — der Guru schlägt dir drei passende Reflexionen basierend auf deinen Notizen vor, die du übernehmen oder weiter anpassen kannst.
 5.  **Meine Erkenntnis**: Verdichte deine drei Reflexionen zu einer einzigen Schlussfolgerung — selbst oder mit Hilfe des Gurus.
 6.  **Meine Praktik**: Übersetze deine Erkenntnis in eine konkrete Mikro-Handlung, die du heute leben kannst. Der Guru kann eine vorschlagen — und Alternativen anbieten, wenn die erste nicht passt.
 
@@ -77,7 +77,7 @@ Das Ritual ist vollendet, wenn die Erkenntnis gefunden und die Praktik gesetzt i
 ### Der Leela-Guru & Clues
 Der **Leela-Guru** ist die KI-Präsenz, die jeden Schritt des Leela Reflections Modells unterstützt. Er ersetzt nicht deine Intuition — er schärft deine Fragen und hilft dir, deine Erkenntnisse im Alltag zu verankern.
 
-*   Jede Guru-Konsultation kostet **1 Clue**: Absicht schärfen, die drei StOR-Fragen personalisieren (Startpunkt, Schattenzone, Schlüssel), Erkenntnis verdichten, eine Praktik vorschlagen oder alternative Praktiken anbieten.
+*   Jede Guru-Konsultation kostet **1 Clue**: Absicht schärfen, die drei StOR-Fragen personalisieren (Startpunkt, Schattenzone, Schlüssel), Reflexionen zu einer Karte vorschlagen, Erkenntnis verdichten, eine Praktik vorschlagen oder alternative Praktiken anbieten.
 *   Schlägt ein Guru-Aufruf aus technischen Gründen fehl, wird der Clue **automatisch erstattet**.
 *   Der Guru wird nur auf Anfrage konsultiert — nichts wird generiert, ohne dass du fragst.
 *   Der Guru ist völlig optional: **Jedes Ritual lässt sich nach wie vor vollständig und kostenlos ohne ihn abschließen — wie bisher**. Wir empfehlen seine Begleitung jedoch von Herzen — sie hilft erheblich, in der Schattenarbeit und Selbstreflexion tiefer zu gehen.
@@ -113,6 +113,7 @@ Halte deine Erkenntnisse direkt bei jeder Karte fest.
 *   Tippe auf den Bereich **Meine Reflexion** oder das **Bearbeiten-Symbol** auf der Detailseite einer Karte.
 *   Speichere deine Gedanken, Gefühle oder "Aha-Momente".
 *   Diese Reflexionen werden zusammen mit der Karte in deinem Tagebuch gespeichert und erstellen eine Karte der Entwicklung deiner Seele.
+*   **Hilfe vom Guru**: Fehlt dir die Inspiration? Notiere ein paar Stichpunkte und tippe auf das **Guru-Symbol** (1 Clue). Der Leela-Guru schlägt dir drei kurze Reflexionen vor, aufgebaut auf deinen Notizen — tippe eine an, um sie ins Textfeld zu übernehmen und vor dem Speichern anzupassen.
 
 ---
 
