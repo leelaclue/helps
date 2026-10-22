@@ -20,6 +20,7 @@ Willkommen bei **LeelaClue**, deinem persönlichen Begleiter für Selbstreflexio
 3. [Mein Tagebuch](#mein-tagebuch)
     - [Meine Reflexionen](#meine-reflexionen)
 4. [Zusätzliche Funktionen](#zusätzliche-funktionen)
+    - [Der Sadhana-Baum](#der-sadhana-baum)
     - [Aktive Praktiken](#aktive-praktiken)
     - [Dakshina — Clues auffüllen](#dakshina--clues-auffüllen)
     - [Deine Clues schützen (Anmeldung)](#deine-clues-schützen-anmeldung)
@@ -48,10 +49,10 @@ LeelaClue ist auf Deutsch, Englisch und Russisch verfügbar.
 
 ### Der Hauptbildschirm
 Der Hauptbildschirm ist dein zentraler Ausgangspunkt:
-*   **Das Karussell**: Wische durch fünf Hauptbereiche: die drei zentralen Rituale — **Täglicher Hinweis**, **Tägliche Weisheit** und **Das Leela Feld** — gefolgt von **Aktive Praktiken** und **Dakshina**.
+*   **Das Karussell**: Wische durch fünf Hauptbereiche: die drei zentralen Rituale — **Täglicher Hinweis**, **Tägliche Weisheit** und **Das Leela Feld** — gefolgt vom **Sadhana-Baum** und **Dakshina**.
 *   **Schnellnavigation & Fortschritt**: Die Symbole am oberen Rand dienen als direkte Abkürzungen — tippe einfach auf ein Symbol, um sofort zum jeweiligen Bereich im Karussell zu springen, ohne wischen zu müssen. Gleichzeitig zeigen sie deinen Tagesfortschritt an und erhalten ein Häkchen, sobald ein Ritual abgeschlossen ist.
 *   **Hilfe-Button**: Das Fragezeichen-Symbol (`?`) steht dir auf jedem Bildschirm der App zur Verfügung. Ein Fingertipp genügt, um dir jederzeit die wichtigsten Erläuterungen und Hilfestellungen genau zu dem Bildschirm und den Funktionen anzuzeigen, in denen du dich gerade befindest.
-*   **Aktive Praktiken**: Tippe auf das Kalender-Symbol in der unteren Leiste, um die Seite der Aktiven Praktiken zu öffnen.
+*   **Aktive Praktiken**: Tippe auf das Lotus-Symbol in der unteren Leiste, um den Heutigen Praxisplan (Aktive Praktiken) zu öffnen.
 *   **Tagebuch**: Tippe auf das Buch-Symbol, um in deiner Reflexionsgeschichte zu blättern.
 
 ### Täglicher Hinweis — die Leela Reflections Methode
@@ -64,7 +65,7 @@ Deine drei Karten entsprechen Schlüsselfeldern auf dem Leela-Spielfeld und bild
 *   **R — Resource / Schlüssel zur Lösung** (*Was bringt mich voran?*): Deine innere Kraft und Ressource zur Wandlung — der Schlüssel, der deinen Weg öffnet.
 
 #### Die Reise, Schritt für Schritt
-1.  **Formuliere deine Absicht**: Schreibe deine Absicht oder Frage auf (mindestens 5 Wörter). Vermeide einfache Ja/Nein-Fragen; formuliere lieber offen mit „Was...“ oder „Wie...“. Die Schaltfläche oben rechts im Eingabefeld bietet dir direkte Unterstützung:
+1.  **Formuliere deine Absicht**: Schreibe deine Absicht oder Frage auf — oder tippe auf das Mikrofon oben links im Eingabefeld und sprich sie aus. Vermeide einfache Ja/Nein-Fragen; formuliere lieber offen mit „Was...“ oder „Wie...“. Die Schaltfläche oben rechts im Eingabefeld bietet dir direkte Unterstützung:
     *   **Goldener Zauberstab:** Tippe darauf, wenn du noch nach Inspiration suchst. Leela bietet dir thematische Schwerpunkte mit jeweils drei tiefgründigen Fragen zur Kontemplation an. Sobald du einige Rituale absolviert hast, erscheint ganz oben der Bereich **Erkenntnis vertiefen**: Hier findest du deine eigenen früheren Fragen wieder, um sie aus neuen Blickwinkeln mit frischen Karten zu beleuchten. (Diese Fragen bleiben ausschließlich lokal auf deinem Gerät gespeichert.) Wähle eine Frage aus, um sie in dein Eingabefeld zu übernehmen.
     *   **Lila Guru:** Sobald du eigene Gedanken eingetippt hast, verwandelt sich das Symbol in einen pulsierenden lila **Guru**. Tippe darauf, um die Unterstützung des Gurus einzuladen. Der Guru hilft dir, dein Anliegen zu schärfen:
         - Er erkennt den Wesenskern deiner Frage.
@@ -99,7 +100,7 @@ Der dritte Bereich im Karussell öffnet **Das Leela Feld** — einen eigenständ
 ### Der Leela-Guru & Clues
 Der **Leela-Guru** ist eine KI-Präsenz, die dich auf jedem Schritt des Leela Reflections Modells begleitet. Er ersetzt nicht deine Intuition — er schärft deine Wahrnehmung und hilft dir, Erkenntnisse greifbar im Alltag zu verankern.
 
-*   **Wie Clues funktionieren**: Konsultationen mit dem Guru werden durch Clues ermöglicht. Eine kleine Plakette mit einer Zahl auf dem Guru-Symbol zeigt an, wie viele Clues für die jeweilige Unterstützung benötigt werden (in der Regel 1 Clue) — etwa zum Schärfen einer Absicht, zum Personalisieren von Reflexionsfragen, für Formulierungsvorschläge, zum Verdichten einer Erkenntnis oder für Praxisimpulse.
+*   **Wie Clues funktionieren**: Konsultationen mit dem Guru werden durch Clues ermöglicht. Jede Konsultation kostet 1 Clue — etwa zum Schärfen einer Absicht, zum Personalisieren von Reflexionsfragen, für Formulierungsvorschläge, zum Verdichten einer Erkenntnis oder für Praxisimpulse.
 *   Der goldene Zauberstab, Themenkataloge, vorbereitete Fragen und deine früheren Fragen sind immer vollkommen kostenlos.
 *   Schlägt eine Anfrage aus technischen Gründen fehl, wird der Clue **automatisch erstattet**.
 *   Der Guru wird ausschließlich auf deinen Wunsch aktiv — ohne deine Anfrage wird nichts generiert.
@@ -127,8 +128,20 @@ Halte deine Gedanken unmittelbar auf jeder Karte fest.
 
 ## Zusätzliche Funktionen
 
+### Der Sadhana-Baum
+Der vierte Bereich im Karussell öffnet den **Sadhana-Baum** (*Sadhana* steht im Sanskrit für die tägliche spirituelle Praxis) – ein lebendiges Sinnbild deines Weges, begleitet von sanften Waldklängen.
+*   **Wie er wächst**: Jeder Schritt deiner inneren Arbeit bringt einen Teil des Baumes zum Leuchten:
+    *   **Wurzeln & Stamm**: Wachsen jedes Mal, wenn du im **Täglichen Hinweis** oder in der **Täglichen Weisheit** Karten empfängst.
+    *   **Äste**: Wachsen mit jeder Reflexion, die du niederschreibst.
+    *   **Blätter**: Wachsen mit jeder Praxis, die du erfüllst.
+    *   **Strahlkraft**: Die Zusammenarbeit mit dem Leela-Guru und vollständig bis zur Praxis geführte Rituale verleihen dem Baum zusätzliches Leuchten.
+*   **Sichtbares Wachstum in Echtzeit**: Dein Baum spiegelt dein Tagebuch unmittelbar wider. Wenn du den Sadhana-Baum öffnest, baut er sich zunächst bis zu deinem letzten Besuch auf und lässt anschließend das neue Wachstum aufleuchten, das seitdem hinzugekommen ist.
+*   **Farben der Reife**: Mit zunehmender Beständigkeit über Wochen, Monate und Jahre wandelt sich das Kleid des Baumes über vier Farbstufen – von **weichem Gold** über **Orange** und **zartes Flieder** bis hin zum tiefen **Lila des Leela-Gurus**.
+*   **Lebendige Atmosphäre**: Pausen lassen deinen Baum niemals schrumpfen oder welken. Wenn du einige Tage aussetzt, frischt der Wind auf und das fließende Licht zieht sich näher zum Stamm zurück; sobald du zu deiner Praxis zurückkehrst, legt sich der Wind und das Licht strömt wieder bis in die Spitzen.
+*   **Tippe auf den Baum (Deine Zahlen)**: Tippe auf die **Wurzeln oder den Stamm**, um zu sehen, wie viele Rituale **Täglicher Hinweis** und **Tägliche Weisheit** du vollendet hast. Tippe auf die **Krone**, um die Anzahl deiner **erfüllten Praktiken** und **geschriebenen Reflexionen** anzuzeigen. Ein erneutes Tippen blendet die Zahlen wieder aus.
+
 ### Aktive Praktiken
-Der vierte Bereich im Karussell öffnet die **Aktiven Praktiken** — die Übersicht aller aktuellen Übungen aus beiden Ritualen (Tägliche Weisheit in Grün, Täglicher Hinweis in Orange).
+Tippe auf das Lotus-Symbol in der unteren Leiste des Hauptbildschirms, um den **Heutigen Praxisplan (Aktive Praktiken)** zu öffnen — die Übersicht aller aktuellen Übungen aus beiden Ritualen (Tägliche Weisheit in Grün, Täglicher Hinweis in Orange).
 *   **Tägliche Praktiken**: Praktiken aus einem Ritual sind für den jeweiligen Tag gedacht und werden um Mitternacht automatisch archiviert.
 *   **Wiederkehrende Praktiken**: Du kannst jede Praktik in eine fortlaufende Gewohnheit umwandeln und eine **tägliche Erinnerung** aktivieren, um am Ball zu bleiben.
 *   **Praktiken verwalten**: Setze ein Häkchen, wenn du eine Praktik heute umgesetzt hast; tippe darauf, um zur Ursprungskarte zurückzukehren; wische nach links, um eine erfüllte Praktik zu archivieren.
@@ -163,6 +176,7 @@ LeelaClue ist für achtsame Reflexion und die Integration in den Alltag gedacht,
 Tippe auf das **Zahnrad-Symbol**, um die Einstellungen aufzurufen:
 *   Lege deinen Namen für die Begrüßung fest und aktiviere tägliche Erinnerungen.
 *   **Analytics**: Analytics ist standardmäßig deaktiviert. Wenn du es einschaltest, werden lediglich anonyme Nutzungsdaten erfasst — niemals persönliche Fragen oder Reflexionen. Du kannst dies jederzeit wieder deaktivieren.
+*   **Leela Guru KI**: Zeigt, ob der Leela Guru das, was du mit ihm teilst, an Google Gemini senden darf. Du kannst dies jederzeit ausschalten — der Guru fragt dann vor der nächsten Konsultation erneut um deine Erlaubnis.
 *   **Konto & Daten löschen**: Löscht unwiderruflich alle lokalen und synchronisierten Daten — deine Reflexionen, Einstellungen, den Kaufverlauf und dein Clue-Guthaben — und setzt die App in den Originalzustand zurück. (Von Apple oder Google verwaltete Kaufbelege verbleiben in deren Store-Systemen und können von Drittanbieter-Apps nicht entfernt werden.)
 
 ---
@@ -202,7 +216,7 @@ A: LeelaClue fördert die tiefe Integration im Alltag. Pro Kalendertag wird ein 
 A: Die Tägliche Weisheit soll dich durch den ganzen Tag begleiten. Beim Täglichen Hinweis kannst du das Ritual vor dem Niederschreiben deiner Gedanken bis zu dreimal am Tag durchführen. Sobald deine Reflexionen gespeichert sind, ist der Tag verankert, damit du dich ganz auf die gelebte Erfahrung konzentrierst. Frühere Tage lassen sich jederzeit im Tagebuch per Wischgeste nach links löschen.
 
 **F: Wo finde ich meine Tägliche Praktik?**  
-A: Schließe zuerst das Ritual der Täglichen Weisheit ab. Die Praktik deiner Karte wird daraufhin automatisch für heute aktiviert. Tippe auf das Kalender-Symbol in der unteren Leiste, um die Seite der Aktiven Praktiken zu öffnen.
+A: Schließe zuerst das Ritual der Täglichen Weisheit ab. Die Praktik deiner Karte wird daraufhin automatisch für heute aktiviert. Tippe auf das Lotus-Symbol in der unteren Leiste, um den Heutigen Praxisplan (Aktive Praktiken) zu öffnen.
 
 **F: Benötige ich ein Konto für LeelaClue?**  
 A: Nein. Die App ist ohne jede Anmeldung vollumfänglich nutzbar. Der Login mit Apple oder Google ist optional und dient einzig dem dauerhaften Schutz deiner erworbenen Clues.
